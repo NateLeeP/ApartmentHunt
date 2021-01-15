@@ -28,8 +28,8 @@ npm run build-dev
 ### Contribution
 I was responsible for enabling secure document upload and allowing agents to view these documents. Technologies used: 
 
-AWS S3
-Crypto.js
-React-PDF
+* AWS S3
+* Crypto.js
+* React-PDF
 
 User has ability to upload secure documents. Agents have ability to upload photos and videos associated with an apartment. 
